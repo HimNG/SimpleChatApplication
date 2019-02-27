@@ -2,5 +2,5 @@
 simple chat application using tkinter &amp; RabbitMQ
 
 pre requisite:
-RabbitMQ
+RabbitMQ , 
 Python
